@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dilan Bopanna</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at **[bopanna.me]**(https://bopanna.me)
+- 👨‍💻 All of my projects are available at [bopanna.me](https://bopanna.me)
 
 - 📫 How to reach me **bopannamj@gmail.com**
 
